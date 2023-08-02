@@ -30,3 +30,8 @@ Gympass style app.
 - [x] Os dados da aplicação precisam estar persistidos em um banco de dados PostgreSQL;
 - [x] Todas listas de dados precisam estar páginadas com no máximo 20 itens por página;
 - [ ] O usuário deve ser identificado por um JWT (Json Web Token);
+
+## ANOTAÇÕES
+
+npm link dentro da pasta prisma/vite-environment-prisma
+npm link prisma/vite-environment-prisma dentro da raiz
