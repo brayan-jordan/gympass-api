@@ -10,7 +10,9 @@ Aplicação back-end completa, para realizar o controle de passes de academias. 
 + 🗼 **Prisma ORM:** Utilizei a biblioteca [prisma.io](https://www.prisma.io/) para integrar com o banco de dados. A biblioteca contém várias ferramentas para facilitar o desenvolvimento e manutenção do banco de dados em grandes equipes.
 + 🔒 **JWT e Refresh tokens:** Aprimorei os conhecimentos que já tinha em autenticação JWT, desenvolvendo um sistema de refresh tokens, que permite implementar rotas de logout (invalidação de tokens) e também mantér renovar o token do usuário para poupa-lo de digitar suas credenciais novamente.
 + 🤹 **Role Based Access Control:** Aprendi e apliquei esse conceito para conseguir restringir algumas funcionalidades apenas para usuários com cargos de ADMIN dentro da aplicação
++ 🌍 **HTTP Status code:** Aprimorei os conhecimentos que já tinha em códigos de respostas de requisições HTTP, para facilitar a tratativa de erros e integração com outras aplicações.
 + 📚 **Bibliotecas:** Foram utilizadas algumas outras bibliotecas conhecidas na comunidade NodeJS como: [Fastify](https://fastify.dev/), [Vitest](https://vitest.dev/), [ESLint](https://eslint.org/), [Supertest](https://www.npmjs.com/package/supertest), [DayJS](https://day.js.org/).
+
 
 ## Principais scripts do projeto
 ```bash
